@@ -170,6 +170,8 @@ The model is deployed via a Streamlit app, allowing users to select a book and v
 
 [Book Recommendation System app](https://swethagss-book-recommendation-system-app1-xwq8ow.streamlit.app)
 
+https://github.com/user-attachments/assets/1664cc4e-1e50-4d3c-9e13-5e638713302e
+
 ## Future Work
 
 - **Additional Features**: Include book genres, authors, and user demographics.
